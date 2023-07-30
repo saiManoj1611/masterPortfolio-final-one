@@ -723,7 +723,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "manoj_5_resized.png",
     description: "Ping me , love to talk about technology, philosophy and life",
   },
   blogSection: {
