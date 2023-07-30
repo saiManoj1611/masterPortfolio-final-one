@@ -5,6 +5,8 @@ import { NavLink, Link } from "react-router-dom";
 import { greeting, settings } from "../../portfolio.js";
 import SeoHeader from "../seoHeader/SeoHeader";
 
+//cldm
+
 const onMouseEnter = (event, color) => {
   const el = event.target;
   el.style.backgroundColor = color;
